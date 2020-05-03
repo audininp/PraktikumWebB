@@ -1,0 +1,16 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: lucida grande;  
+}
+
+.judul {
+	height: 30px;
+	width: 44%;
+	font-weight: bold;
+	color: black;
+	background-color: #cccccc;
+	text-align: center;
+	margin: 5% 0% 0% 0%;
+	border: 1px solid #999;
+}

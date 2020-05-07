@@ -1,0 +1,115 @@
+body{
+	margin:0;
+	padding:0;
+	height: 100%;
+	width: 100%;
+}
+.container{
+	position:relative;
+	padding-bottom: 980px;
+}
+.panel-list{
+	border: 2px solid #00CED1;
+	width: 200px;
+	float: left;
+	border-top-left-radius: 50px;
+	margin-left: 40px;
+	margin-top: 20px;
+}
+.logo{
+	width: 150px;
+	height: 150px;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+.logo img{
+	width: 150px;
+	margin: 0 auto;
+}
+.main{
+	width: 1040px;
+	float: right;
+	margin-right: 40px;
+}
+.kategori{
+	width: 200px;
+	height: 40px;
+	background-color: #00008B;
+}
+.kategori h4{
+	color: white;
+	text-align: center;
+	padding: 10px;
+}
+.kategori2{
+	margin:0 auto;
+	width: 160px;
+	height: 15px;
+	border-bottom: 2px dotted #00CED1; 
+}
+.kategori2 h5{
+	color: #00008B;
+}
+.judul{
+	margin:0 auto;
+	width: 1040px;
+	height: 300px;
+	border-bottom-right-radius: 50px;
+}
+.judul h1{
+	color: white;
+	text-align: right;
+	padding-top: 230px;
+	padding-right: 80px; 
+}
+.nav{
+	margin-top: 10px;
+	width: 1040px;
+	height: 55px;
+	background-color: #00008B;
+}
+.nav ul{
+	padding: 0;
+	list-style-type: none;
+  	margin: 0px 100px 0px 100px;
+}
+.nav ul li{
+	float: left;
+  	margin-left: 80px;
+}
+.nav ul li a{
+	text-decoration: none;
+	color: white;
+}
+.content{
+	border: 2px solid #00CED1;
+	width: 1000px;
+	height: 500px;
+	padding: 20px;
+}
+.content h1{
+	color: #00008B;
+}
+.content h1 a{
+	text-decoration: none;
+	color: #00008B;
+}
+.galeri_home{
+	border: solid #00CED1;
+}
+.galeri_home img{
+	padding-left: 30px;
+}
+.content h3 {
+	text-align: right;
+}
+.content h3 a{
+	color: #00008B;
+}
+.footer{
+	padding-top: 5px;
+	height: 130px;
+	width: 100%;	
+	background-color: #00008B;
+	color: white;
+}
